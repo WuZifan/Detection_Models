@@ -1,7 +1,7 @@
 # machine-learning
-weights/*
-weight/*
-.idea/*
+weights/
+weight/
+.idea/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
