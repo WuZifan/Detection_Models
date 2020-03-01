@@ -1,6 +1,6 @@
 # machine-learning
-.weights/*
-.weight/*
+weights/*
+weight/*
 .idea/*
 
 # Byte-compiled / optimized / DLL files
